@@ -11,8 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/karthik_gohul" target="_blank"><img align="center" src="https://img.icons8.com/color/512/twitter.png" alt="karthik_gohul" height="30" width="40" /></a>
-<a href="https://www.instagram.com/karthik_gohul" target="_blank"><img align="center" src="https://icons8.com/icon/13963/twitter" alt="karthik_gohul" height="30" width="40" /></a>
+<a href="https://twitter.com/karthik_gohul" target="_blank"><img align="center" src="https://img.icons8.com/color/512/twitter.png" alt="karthik_gohul" height="40" width="40" /></a>
+<a href="https://www.instagram.com/karthik_gohul" target="_blank"><img align="center" src="https://img.icons8.com/cute-clipart/512/instagram-new.png" alt="karthik_gohul" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
