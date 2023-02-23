@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karthikgohul</h1>
-<h3 align="center">I'm a Frontend Developer Security Researcher and Bug Bounty Hunter</h3>
+<h3 align="center">I'm a Frontend Developer and Security Researcher</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karthikgohul&label=Profile%20views&color=0e75b6&style=flat" alt="karthikgohul" /> </p>
 
@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/karthik_gohul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="karthik_gohul" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/karthik_gohul/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/karthik_gohul/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/karthik_gohul/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/karthik_gohul/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
