@@ -1,23 +1,35 @@
-<h1 align="center">Hi 👋, I'm Karthikgohul</h1>
-<h3 align="center">I'm a Frontend Developer and Security Researcher</h3>
+# 💫 About Me:
+Front-End Developer | Security Researcher | Bug Bounty Hunter
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=karthikgohul&label=Profile%20views&color=0e75b6&style=flat" alt="karthikgohul" /> </p>
+<ul>
+<li>I am Computer Engineering Student.</li>
+<li>I am interested in web developement and Web Security and can pick up skills quickly, and also willing to dive deep into learning the requisite skills if the job provides the space to learn and grow.</li>
+<li> For Future I am planning to learn more about Web Development and Web Security.
+</ul>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karthikgohul" alt="karthikgohul" /></a> </p>
 
-- 🌱 I’m currently learning **Python**
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-- 📫 How to reach me **karthikgohulanandhakumar1@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/karthik_gohul" target="_blank"><img align="center" src="https://img.icons8.com/color/512/twitter.png" alt="karthik_gohul" height="40" width="40" /></a>
-<a href="https://www.instagram.com/karthik_gohul" target="_blank"><img align="center" src="https://img.icons8.com/cute-clipart/512/instagram-new.png" alt="karthik_gohul" height="40" width="40" /></a>
-</p>
+## Training Platforms:
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+<a href="https://www.hackthebox.com/home/users/profile/392420" target=_blank><img src="https://www.hackthebox.com/images/htb_socialmedia_cover.png" width="90" height="32" alt="HackTheBox"></a>
+<a href="https://tryhackme.com/p/karthikgohul" target=_blank><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTDKkpuzKU1dF37xbXaEUZ0ZaIDpI-Q8kvpOH3doRnnpldWCbwFiYlHnFXe414ZMndfoA&usqp=CAU" width="80" height="32" alt="TryHackMe"></a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karthikgohul&show_icons=true&locale=en" alt="karthikgohul" /></p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/karthik_gohul) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/karthikgohul-anandhakumar) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Karthik_Gohul) 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karthikgohul&" alt="karthikgohul" /></p>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=karthikgohul&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=karthikgohul&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=karthikgohul&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=karthikgohul&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=karthikgohul&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
