@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karthikgohul</h1>
-<h3 align="center">I'm a Security Researcher and Bug Bounty Hunter</h3>
+<h3 align="center">I'm a Frontend Developer Security Researcher and Bug Bounty Hunter</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karthikgohul&label=Profile%20views&color=0e75b6&style=flat" alt="karthikgohul" /> </p>
 
