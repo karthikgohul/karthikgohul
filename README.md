@@ -14,7 +14,7 @@ Front-End Developer | Security Researcher | Bug Bounty Hunter
 
 ## Training Platforms:
 
-<a href="https://www.hackthebox.com/home/users/profile/392420" target=_blank><img src="https://www.hackthebox.com/images/htb_socialmedia_cover.png" width="90" height="32" alt="HackTheBox"></a>
+<a href="https://www.hackthebox.com/profile/392420" target=_blank><img src="https://www.hackthebox.com/images/htb_socialmedia_cover.png" width="90" height="32" alt="HackTheBox"></a>
 <a href="https://tryhackme.com/p/karthikgohul" target=_blank><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTDKkpuzKU1dF37xbXaEUZ0ZaIDpI-Q8kvpOH3doRnnpldWCbwFiYlHnFXe414ZMndfoA&usqp=CAU" width="80" height="32" alt="TryHackMe"></a>
 
 ## 🌐 Socials:
